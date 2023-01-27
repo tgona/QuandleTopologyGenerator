@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1639834112 source:d:\codeblocks\quandletopologiesminbasis\main.cpp
+	"QuandleTopologies.h"
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<string>
+	<regex>
+	<sstream>
+	<codecvt>
+	<locale>
+
+1628650389 d:\codeblocks\quandletopologiesminbasis\quandletopologies.h
+	<string>
+	<vector>
+	<iostream>
+	"CommonHeader.h"
+	"Combination.h"
+
+1639815551 d:\codeblocks\quandletopologiesminbasis\commonheader.h
+	<string>
+	<vector>
+	<algorithm>
+
+1606321216 d:\codeblocks\quandletopologiesminbasis\combination.h
+	<vector>
+
+1606321216 source:d:\codeblocks\quandletopologiesminbasis\combination.cpp
+	"Combination.h"
+
+1640083892 source:d:\codeblocks\quandletopologiesminbasis\quandletopologies.cpp
+	"QuandleTopologies.h"
+	<pthread.h>
+	<math.h>
+	<ctime>
+

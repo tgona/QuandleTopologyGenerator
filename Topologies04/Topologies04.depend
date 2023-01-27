@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1625671511 source:d:\codeblocks\topologies04\combination.cpp
+	"Combination.h"
+
+1625671528 d:\codeblocks\topologies04\combination.h
+	<vector>
+
+1626310876 source:d:\codeblocks\topologies04\topologies.cpp
+	"Topologies.h"
+	"Combination.h"
+	<math.h>
+	<ctime>
+	<iostream>
+	<iterator>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<pthread.h>
+	<unistd.h>
+
+1626292990 d:\codeblocks\topologies04\topologies.h
+	<vector>
+	<pthread.h>
+
+1625940586 source:d:\codeblocks\topologies04\main.cpp
+	"Topologies.h"
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<string>
+	<regex>
+	<sstream>
+
